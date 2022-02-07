@@ -3,23 +3,23 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Fabric Opportunities",
+  "description": "A mod providing missed opportunities for minecraft, inspired by the «Minecraft opportunities» series by Cubfan.",
   "authors": [
     "Me!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://mc.eragon.re/fabric-opportunities",
+    "sources": "https://github.com/Eragonfr/fabric-opportunities"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "BSD-3.0",
+  "icon": "assets/opportunities/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.fabricmc.opportunities.Opportunities"
     ]
   },
   "mixins": [
