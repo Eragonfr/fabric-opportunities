@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "opportunities:block/firework_star_table_front",
+    "north": "opportunities:block/firework_star_table_front",
+    "south": "opportunities:block/firework_star_table_front",
+    "east": "opportunities:block/firework_star_table_side",
+    "west": "opportunities:block/firework_star_table_side",
+    "up": "opportunities:block/firework_star_table_top",
+    "down": "minecraft:block/birch_planks"
+  }
+}

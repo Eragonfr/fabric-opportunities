@@ -19,7 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.opportunities.Opportunities"
+      "re.eragon.opportunities.Opportunities"
+    ],
+    "client": [
+      "re.eragon.opportunities.OpportunitiesClient"
     ]
   },
   "mixins": [

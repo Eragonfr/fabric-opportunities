@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "opportunities:block/firework_table_front",
+    "north": "opportunities:block/firework_table_front",
+    "south": "opportunities:block/firework_table_front",
+    "east": "opportunities:block/firework_table_side",
+    "west": "opportunities:block/firework_table_side",
+    "up": "opportunities:block/firework_table_top",
+    "down": "opportunities:block/firework_table_bottom"
+  }
+}
+

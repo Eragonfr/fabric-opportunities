@@ -1,6 +1,6 @@
-package net.fabricmc.opportunities.mixin;
+package re.eragon.opportunities.mixin;
 
-import net.fabricmc.opportunities.Opportunities;
+import re.eragon.opportunities.Opportunities;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
